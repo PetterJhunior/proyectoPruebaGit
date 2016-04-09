@@ -41,6 +41,5 @@ D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\bin\System.Web.Webpages.Deploymen
 D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\bin\System.Web.Webpages.Razor.xml
 D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\bin\System.Web.Helpers.xml
 D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\bin\System.Web.Mvc.xml
-D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\obj\Debug\demoGIT.csprojResolveAssemblyReference.cache
 D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\obj\Debug\demoGIT.dll
 D:\Petter\ADVANCESOFT\cursogit\demoGIT\demoGIT\obj\Debug\demoGIT.pdb
